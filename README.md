@@ -1,2 +1,2 @@
 # Servant
-ESP8266 PowerPlug Power outlet switch for 220v including WiFi manager with fallback web configuration portal
+ESP8266 PowerPlug 220volt Power Outlet contollable by Blynk IoT Servers with it's own wifimanager
